@@ -1,4 +1,6 @@
-Done Whole Project In HTML, CSS and JS
+## Done Whole Project In  PURE HTML, CSS and JS with no CSS and UI frameworks like Tailwind CSS and Material UI to match it with the existing codebase.
 
-For any QUERY
-email:exactshubham@gmail.com
+### Thank YOU
+
+### For any QUERY
+### email:exactshubham@gmail.com
