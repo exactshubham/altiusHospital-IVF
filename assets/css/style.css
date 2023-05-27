@@ -1191,6 +1191,7 @@ body.nav-active { overflow: hidden; }
 }
 
 .elementor-video {
+ 
   border: 2px solid orange; /* Add an orange-colored border to the videos */
   display: block;
   width: 100%;
